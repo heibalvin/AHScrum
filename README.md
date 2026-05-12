@@ -23,7 +23,7 @@ Components:
 
 ## DASHBOARD
 
-![AHScrumMainDashboard](./Assets/ahscrum-main-dashboard)
+![AHScrumMainDashboard](./Assets/ahscrum-main-dashboard.jpeg)
 Workspace Dashboard summary view.
 
 ![AHScrumStoryDashboard](./Assets/ahscrum-workspace-story-dashboard.jpeg)
