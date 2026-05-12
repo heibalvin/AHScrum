@@ -24,7 +24,7 @@ Components:
 ## DASHBOARD
 
 ![AHScrumMainDashboard](./Assets/ahscrum-main-dashboard)
-Example of Dashboard.
+Workspace Dashboard summary view.
 
 ![AHScrumStoryDashboard](./Assets/ahscrum-workspace-story-dashboard.jpeg)
 Story Dashboard with Epic / Sprint Planning view
@@ -33,3 +33,4 @@ Story Dashboard with Epic / Sprint Planning view
 Task Dashboard with Story, Epic Dependency view
 
 ![AHScrumiOSDashboard](./Assets/ahscrum-ios-dashboard.jpeg)
+Workspace, Story, Task Dashboard view for iOS
